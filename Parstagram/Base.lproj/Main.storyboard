@@ -168,7 +168,7 @@
         <!--Navigation Controller-->
         <scene sceneID="wEu-Qr-FA9">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="4Lf-Kd-dAm" sceneMemberID="viewController">
+                <navigationController storyboardIdentifier="FeedNavigationController" automaticallyAdjustsScrollViewInsets="NO" id="4Lf-Kd-dAm" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="P2P-GU-cNx">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="56"/>
